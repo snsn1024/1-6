@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+	height: 400px;
+	width: 100%;
+}
+.title{
+	padding: 20px;
+}
+
+main{
+	width: 840px;
+	margin: 50px auto;
+}
+.service1, .service2, .service3, .service4{
+	padding-bottom: 30px;
+	border-bottom: solid 1px #f7f7f7;
+	margin-bottom: 30px;
+}
